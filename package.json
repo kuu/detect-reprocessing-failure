@@ -1,0 +1,25 @@
+{
+  "name": "detect-reprocessing-failure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuu/detect-reprocessing-failure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuu/detect-reprocessing-failure/issues"
+  },
+  "homepage": "https://github.com/kuu/detect-reprocessing-failure#readme",
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "node-fetch": "^1.7.3",
+    "phantomjs": "^2.1.7"
+  }
+}
